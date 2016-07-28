@@ -10,4 +10,14 @@ CHANG‘E INC
 
 https://java.com/zh_CN/download/
 
+下载程序
+
+
+# 运行 #
+
+'''
+java -jar console.jar
+
+'''
+
 
