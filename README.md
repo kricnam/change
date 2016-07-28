@@ -15,9 +15,8 @@ https://java.com/zh_CN/download/
 
 # 运行 #
 
-'''
+{{{
 java -jar console.jar
-
-'''
+}}}
 
 
