@@ -12,6 +12,7 @@ https://java.com/zh_CN/download/
 
 2 下载程序
 
+https://github.com/kricnam/change/releases/download/v0.0.1/console.jar
 
 # 运行 #
 
