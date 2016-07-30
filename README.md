@@ -15,8 +15,11 @@ https://java.com/zh_CN/download/
 
 # 运行 #
 
+双击console.jar运行
+
+或从命令行执行：
 ```
-java -Ddatabase-url="jdbc:h2:./console.db" -jar target/uberjar/console.jar
+java  -jar target/uberjar/console.jar
 
 ```
 
