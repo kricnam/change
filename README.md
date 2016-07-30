@@ -6,17 +6,18 @@ CHANG‘E INC
 
 # 运行环境 #
 
-下载java环境
+1 从下面地址下载java环境并安装，如果已有则忽略
 
 https://java.com/zh_CN/download/
 
-下载程序
+2 下载程序
 
 
 # 运行 #
 
 ```
-java -jar console.jar
+java -Ddatabase-url="jdbc:h2:./console.db" -jar target/uberjar/console.jar
+
 ```
 
 
