@@ -24,4 +24,12 @@ java  -jar target/uberjar/console.jar
 
 ```
 
+运行后，程序会打开一个浏览器窗口。
+
+新打开一个浏览器输入：
+
+http://localhost:3000/api-ui
+
+可以模仿终端发送消息
+
 
